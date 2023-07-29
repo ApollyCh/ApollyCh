@@ -1,18 +1,84 @@
-### Hi there 👋
+<body>
+  <center>
+<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<br>
+
 <div>
-  <h1>I'm Apollinaria Chernikova</h1>
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+  <div align="center">
+<img src="https://i.pinimg.com/originals/c2/2d/aa/c22daa4acd066ca7992d4235bec2210b.gif" align="right" height="220" width="190" frameborder="0" scrolling="no">
+  </div>
+<li>
+ <b>Name:</b> Apollinaria
+</li>
+<li>
+<b>Loves:</b> anime, hoyoverse games, coding
+</li>
+<li>
+<b>Gender:</b> she/her
+</li>
+<li>
+<b>Hobbies:</b> Video Editing, Photography, Web Development
+</li>
+<li>
+<b>Innopolis University Student</b>
+</li>
+
+<br><br><br>
 </div>
-<!--
-**ApollyCh/ApollyCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+ <br>
+<p>
+  <div align="center">
+<img src="https://i.pinimg.com/originals/0c/af/9f/0caf9f7b8ab4917287aaaf8b8b772cd7.gif" align="left" width="400px">
+  </div>
+</div>
+<div>
+  <br>
+<p align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://camo.githubusercontent.com/12c86948171f70caa99571e22625bfbf108e7b37d583189fdb79fc84dbd2b922/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5675652e6a732d3446433038443f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d333434393545266c6f676f436f6c6f723d344643303844266c6f676f3d7675652d646f742d6a73">
 
-Here are some ideas to get you started:
+<img src="https://camo.githubusercontent.com/235a1e3a0488dbd4202ce678aa04a04281f5c4cecf58f554b13212d6cbfd8238/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d463035303332266c6f676f436f6c6f723d666666666666266c6f676f3d676974">
+<br>
+<img src="https://camo.githubusercontent.com/03c29c2856244c5626944c9e2b1ed107601494d2231f70e4724dd0687eeb9f23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d6666666666663f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d313831373137266c6f676f436f6c6f723d666666666666266c6f676f3d676974687562">
+<img src="https://camo.githubusercontent.com/44b564b2df8b63b7f55914b26c44e5f5dda5172e25ee1a881fc33035a620444c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d663539373166266c6f676f436f6c6f723d303037333936266c6f676f3d6a617661">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://camo.githubusercontent.com/390a54b1a9ec6018f34212833ba161ee0a2a3f392ef02ea2e8502eb6fe3d989a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d464644343342266c6f676f436f6c6f723d333737364142266c6f676f3d707974686f6e">
+
+<img src="https://camo.githubusercontent.com/54edac55260274fa7728173e1557e22eb743eef823049f5f124d79dfdf8869fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d303134323764266c6f676f436f6c6f723d363239356362266c6f676f3d63706c7573706c7573">
+
+<img src="https://camo.githubusercontent.com/d9b2f2f4afa4e6fdbafebd3e918374e8c0f6d8b9a37d33a5187e03b64d3a93f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d666666666666266c6f676f436f6c6f723d333137384336266c6f676f3d74797065736372697074">
+<img src="https://camo.githubusercontent.com/751a9689ee78d223598375a6962910479def3babeb8033812f26b7e370d2bf66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d666666666666266c6f676f436f6c6f723d463744463145266c6f676f3d6a617661736372697074">
+
+<img src="https://camo.githubusercontent.com/ae51952f6c3ab947f1788316d09a9ddb460a07b1f9fe9a159e05e583138646f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d316532313232266c6f676f436f6c6f723d333339393333266c6f676f3d6e6f64652d646f742d6a73">
+<img src="https://camo.githubusercontent.com/15a8ea46dc9f0829bbf1810291c0749331daf7ff5e6b8c30b546cbf0318bb0a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d434233383337266c6f676f436f6c6f723d434233383337266c6f676f3d6e706d">
+<br>
+<img src="https://camo.githubusercontent.com/721644586e366ea3c0a5897ead58313874c42a3afa9e073956de5a5c9f64c8cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45534c696e742d3442333243333f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d344233324333266c6f676f436f6c6f723d383038306632266c6f676f3d65736c696e74">
+
+  <img src="https://camo.githubusercontent.com/0fdd7d78376a31f0f07688c656f93dc7a9cc7527f4d2769cd359db7e13ec1a87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3739353242333f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d373935324233266c6f676f436f6c6f723d666666666666266c6f676f3d626f6f747374726170">
+
+  
+  <br><br>
+  <p align="center"> I'm also going to learn Data Science and Artificial Intelligence in university because I'm really interested in Calculus and this spere </p>
+
+</p>
+<br>
+<h2 align="center">           📝 ~ 𝓢𝓸𝓶𝓮 𝓢𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓬𝓼 ~ 📝</h2>
+  <div align="center">
+<br>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=apollych&count_private=true&theme=tokyonight&hide=contribs,prs,issues">
+<img align="left" width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollych&layout=compact">
+
+</div>
+<br>
+<div>
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="center">
+<img src="https://i.pinimg.com/originals/40/c6/cf/40c6cf523331a8b37aff9a01abe2a070.gif">
+</div>
+<hr>
+</div>
+</div>
+    </center>
+</body>
