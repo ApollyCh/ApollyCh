@@ -60,7 +60,7 @@
 
   
   <br><br>
-  <p align="center"> I'm also going to learn Data Science and Artificial Intelligence in university because I'm really interested in Calculus and this spere </p>
+  <p align="center"> I'm also going to learn Data Science and Artificial Intelligence in university because I'm really interested in Calculus and this sphere ✨</p>
 
 </p>
 <br>
